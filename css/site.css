@@ -1,0 +1,40 @@
+﻿body {
+}
+.navLogoImage {
+    height: 40px;
+    width: auto;
+}
+
+.placedText{
+color: #999;
+  opacity: 1;}
+
+.signinBorder{
+    border: 2px solid #0062cc; border-radius: 20px; background-color:#fff; padding: 10px 10px 60px 10px; margin:0 auto; min-width:300px; width: 30%; height:auto;
+
+}.topLogo300{
+     width: 300px; height: auto; margin: 0 auto;
+ }
+ .dynalogPages{
+      border: 2px solid #0062cc; border-radius: 10px; background-color:#fff; padding: 10px ; margin:5px;
+ }
+ .noListType{ list-style-image: none; list-style-type:none;}
+
+.cardBoards{
+      border: 1px solid #0062cc; border-radius: 10px; background-color:#fff; padding: 10px ; margin:5px; 
+ }
+.cardBoardsPurple{
+      border-radius: 10px; background-color:#b87af7; padding: 10px ; margin:0 5px 0 0; color:#fff;
+ }
+.cardBoardsBlue{
+     border-radius: 10px; background-color:#6986e6; padding: 10px ; margin:0 5px 0 0; color:#fff;
+ }
+.cardBoardsPeach{
+      border-radius: 10px; background-color:#ffa58a; padding: 10px ; margin:0 5px 0 0; color:#fff;
+ }
+.cardBoardsWhite{
+      border-radius: 10px; background-color:#fff; padding: 10px ; margin:0 5px 0 0; color:#fff;
+ }
+.fbLoginBtn{
+     width:auto; height:29px;
+ }
